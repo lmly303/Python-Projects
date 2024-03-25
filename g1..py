@@ -16,7 +16,7 @@ print('''
           jgs |  _\o/   __  {.' __  '.} _   _\o/  _|
               `""""-""""""""""""""""""""""""""-""""`
 ''')
-print("WELCOME TO THE TREASURE ISLAND")
+print("WELCOME TO THE TREASURE ISLAND GAME")
 print("YOUR MISSION IS TO FIND THE TREASURE")
 a = input("YOU'RE AT A CROSS ROAD. WHERE DO YOU WNT TO GO ? (TYPE R FOR RIGHT AND L FOR LEFT) :  \n")
 if a.lower() == "l":
