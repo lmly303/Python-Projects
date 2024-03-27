@@ -1,8 +1,10 @@
-# Treasure Island Adventure Game
+# Rock Paper Scissors Game & Treasure Island Adventure
+
+## Treasure Island Adventure Game
 
 Welcome to the Treasure Island Adventure Game! In this text-based adventure, you embark on a quest to find hidden treasure on a mysterious island. Navigate through various challenges and make crucial decisions to reach your ultimate goal.
 
-## How to Play
+### How to Play
 
 1. Clone or download the repository to your local machine.
 
@@ -22,5 +24,16 @@ Welcome to the Treasure Island Adventure Game! In this text-based adventure, you
 -Navigate through different scenarios and face challenges.
 
 -Reach the end goal of finding the treasure!
+
+## Rock Paper Scissors Game
+
+Welcome to the Rock Paper Scissors Game!
+
+### How to Play
+
+1. Choose rock, paper, or scissors by entering the corresponding number.
+2. The computer will randomly select its choice.
+3. The winner is determined based on the game rules.
+4. Have fun playing!
 
 
