@@ -37,3 +37,8 @@ Welcome to the Rock Paper Scissors Game!
 4. Have fun playing!
 
 
+```bash
+   python rock_paper_scissors.py
+
+
+
