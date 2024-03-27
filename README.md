@@ -17,7 +17,7 @@ Welcome to the Treasure Island Adventure Game! In this text-based adventure, you
    ```bash
    python g1..py
    
-# Follow the on-screen instructions to progress through the game:
+## Follow the on-screen instructions to progress through the game:
 
 -Make choices by typing the specified keywords ('left', 'right', 'wait', etc.).
 
