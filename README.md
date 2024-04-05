@@ -1,10 +1,6 @@
 # Python Projects
 
-## 1.Treasure Island Adventure Game
-
-Welcome to the Treasure Island Adventure Game! In this text-based adventure, you embark on a quest to find hidden treasure on a mysterious island. Navigate through various challenges and make crucial decisions to reach your ultimate goal.
-
-### How to Play
+## Follow below steps before playing the games
 
 1. Clone or download the repository to your local machine.
 
@@ -14,7 +10,12 @@ Welcome to the Treasure Island Adventure Game! In this text-based adventure, you
 
 4. Run the script by executing the following command:
 
-### Follow the on-screen instructions to progress through the game:
+## 1.Treasure Island Adventure Game
+
+Welcome to the Treasure Island Adventure Game! In this text-based adventure, you embark on a quest to find hidden treasure on a mysterious island. Navigate through various challenges and make crucial decisions to reach your ultimate goal.
+
+
+### How to play :
 
 -Make choices by typing the specified keywords ('left', 'right', 'wait', etc.).
 
@@ -39,12 +40,6 @@ Welcome to the Rock Paper Scissors Game!
 
 This Python script generates a random password based on user-defined criteria, including the number of letters, symbols, and numbers. It utilizes character sets for letters, numbers, and symbols to create a diverse and secure password.
 
-### How to Use
-
-1. Clone or download the repository to your local machine.
-2. Make sure you have Python installed on your machine. You can download it from [here](https://www.python.org/downloads/).
-3. Open a terminal or command prompt and navigate to the directory where the script is located.
-4. Run the script by executing the following command:
 
 ### Follow the on-screen instructions:
 
@@ -53,5 +48,16 @@ This Python script generates a random password based on user-defined criteria, i
 - Enter the number of numbers you want in your password.
 
 The script will generate a random password based on your input and display it in the terminal.
+
+## Hangman Game
+
+This Hangman game is a simple Python script that allows players to guess words letter by letter. It provides a visual representation of the hangman as the player makes incorrect guesses.
+
+### How to play
+
+- Randomly selects a word from a predefined list
+- Displays a hangman figure for each incorrect guess
+- Provides feedback on whether the guess is correct or incorrect
+- Ends the game when the player successfully guesses the word or runs out of attempts
 
 
