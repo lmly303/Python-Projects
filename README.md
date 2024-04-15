@@ -61,3 +61,14 @@ This Hangman game is a simple Python script that allows players to guess words l
 - Ends the game when the player successfully guesses the word or runs out of attempts
 
 
+## Caesar Cipher Encryption and Decryption
+This Python script allows you to encrypt and decrypt messages using the Caesar Cipher technique. The Caesar Cipher is a simple substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
+
+### How to Use
+
+- Run the script.
+- Choose whether you want to 'encode' or 'decode' a message.
+- Enter your message when prompted.
+- Enter the shift number, which determines how many places each letter will be shifted in the alphabet.
+
+
