@@ -29,13 +29,20 @@ def decrypt(plain_text, shift_amount):
 
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+x="yes"
+while x=="yes":
+    direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
+    text = input("Type your message:\n").lower()
+    shift = int(input("Type the shift number:\n"))
 
-direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
-text = input("Type your message:\n").lower()
-shift = int(input("Type the shift number:\n"))
+    if direction == "encode":
+        encrypt(plain_text=text, shift_amount=shift)
+    elif direction == "decode":
+        decrypt(plain_text=text, shift_amount=shift)
 
-if direction=="encode":
-    encrypt(plain_text=text, shift_amount=shift)
-elif direction=="decode":
-    decrypt(plain_text=text, shift_amount=shift)
+    x=input("type 'yes' to continue and 'no' to terminate : ")
+
+
+
+
 

@@ -49,7 +49,7 @@ This Python script generates a random password based on user-defined criteria, i
 
 The script will generate a random password based on your input and display it in the terminal.
 
-## Hangman Game
+## 4.Hangman Game
 
 This Hangman game is a simple Python script that allows players to guess words letter by letter. It provides a visual representation of the hangman as the player makes incorrect guesses.
 
@@ -61,7 +61,7 @@ This Hangman game is a simple Python script that allows players to guess words l
 - Ends the game when the player successfully guesses the word or runs out of attempts
 
 
-## Caesar Cipher Encryption and Decryption
+## 5.Caesar Cipher Encryption and Decryption
 This Python script allows you to encrypt and decrypt messages using the Caesar Cipher technique. The Caesar Cipher is a simple substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
 ### How to Use
